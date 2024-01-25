@@ -1,5 +1,7 @@
 # Hi there 👋  I'm El-kdioui Badre
 
+##About Me :
+
 💻 student at School 1337 pursuing a degree in software engineering, with a Professional License in Information Technology Management.
 
 [![bel-kdio's 42 stats](https://badge.mediaplus.ma/darkblue/bel-kdio)](https://github.com/oakoudad/badge42)
