@@ -1,6 +1,6 @@
 # Hi there 👋  I'm El-kdioui Badre
 
-##About Me :
+## About Me :
 
 💻 student at School 1337 pursuing a degree in software engineering, with a Professional License in Information Technology Management.
 
