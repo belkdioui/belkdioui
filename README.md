@@ -5,9 +5,7 @@
 🚀 Through engaging academic projects and hands-on professional internships, I've honed my skills in software design, development, and maintenance. My journey has equipped me with problem-solving prowess, a collaborative spirit, and a knack for creativity.
 
 <!--🔍 Passionate about crafting high-quality software, I'm on a mission to turn challenges into opportunities. Always eager to learn and grow, I'm ready to take on new adventures as a software developer.-->
-
 <h3> 🔭  I’m currently working on an application to managing tasks using js Django postgreSQL</h3>
-
 <!--🌱 I’m currently learning about--> 
 
 🌐 Let's connect and build something amazing together! 🚀
