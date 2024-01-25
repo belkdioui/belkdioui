@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/badre-el-kdioui-1a88471b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/badre_elkdioui?igsh=dmtlZjBycmdvMG93&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 <!--
 **belkdioui-111/belkdioui-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
