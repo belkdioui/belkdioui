@@ -1,6 +1,6 @@
 # Hi there 👋  I'm El-kdioui Badre
 
-💻 a student at School 1337 pursuing a degree in software engineering, with a Professional License in Information Technology Management.
+💻 student at School 1337 pursuing a degree in software engineering, with a Professional License in Information Technology Management.
 
 🚀 Through engaging academic projects and hands-on professional internships, I've honed my skills in software design, development, and maintenance. My journey has equipped me with problem-solving prowess, a collaborative spirit, and a knack for creativity.
 
