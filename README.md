@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there 👋 # I'm El-kdioui Badre
 
-👋 Hello there! I'm El-kdioui  Badre, a student at School 1337 pursuing a degree in software engineering, with a Professional License in Information Technology Management. 💻
+💻 a student at School 1337 pursuing a degree in software engineering, with a Professional License in Information Technology Management.
 
 🚀 Through engaging academic projects and hands-on professional internships, I've honed my skills in software design, development, and maintenance. My journey has equipped me with problem-solving prowess, a collaborative spirit, and a knack for creativity.
 
 <!--🔍 Passionate about crafting high-quality software, I'm on a mission to turn challenges into opportunities. Always eager to learn and grow, I'm ready to take on new adventures as a software developer.-->
 
-🔭 I’m currently working on an application to managing tasks using js Django postgreSQL
+🔭 #### I’m currently working on an application to managing tasks using js Django postgreSQL
 
 <!--🌱 I’m currently learning about--> 
 
