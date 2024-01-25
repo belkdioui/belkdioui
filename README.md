@@ -1,4 +1,4 @@
-### Hi there 👋 <h1> I'm El-kdioui Badre </h1>
+# Hi there 👋 <h1> I'm El-kdioui Badre </h1>
 
 💻 a student at School 1337 pursuing a degree in software engineering, with a Professional License in Information Technology Management.
 
