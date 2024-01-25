@@ -26,7 +26,8 @@
 ⚡ Fun fact: ...
 
 ### :hammer_and_wrench: Languages and Tools :
-<i class="devicon-c-plain colored"></i>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
           
 <!--
 **belkdioui-111/belkdioui-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
