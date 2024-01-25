@@ -14,7 +14,7 @@
 
 🌐 Let's connect and build something amazing together! 🚀
 
-<div id="badges">
+<div id="badges" style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/badre-el-kdioui-1a88471b1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
