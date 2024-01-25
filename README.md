@@ -14,14 +14,14 @@
 
 🌐 Let's connect and build something amazing together! 🚀
 
-<div id="badges" style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/badre-el-kdioui-1a88471b1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/badre_elkdioui?igsh=dmtlZjBycmdvMG93&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</div>
+
+⚡ Fun fact: ...
 <!--
 **belkdioui-111/belkdioui-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,5 +33,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
