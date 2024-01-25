@@ -12,7 +12,7 @@
 <h4> 🔭  I’m currently working on an application to managing tasks using js Django postgreSQL<a href="https://github.com/belkdioui-111/task_manager-Js-Django-PostgreSQL"> Link Github </a></h4>
 <!--🌱 I’m currently learning about--> 
 
-🌐 Let's connect and build something amazing together! 🚀
+🌐 Let's connect and build something amazing together! 
   <a href="https://www.linkedin.com/in/badre-el-kdioui-1a88471b1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
