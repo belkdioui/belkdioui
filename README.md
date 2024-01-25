@@ -1,4 +1,4 @@
-# Hi there 👋 <h1> I'm El-kdioui Badre </h1>
+# Hi there 👋  I'm El-kdioui Badre
 
 💻 a student at School 1337 pursuing a degree in software engineering, with a Professional License in Information Technology Management.
 
@@ -6,7 +6,7 @@
 
 <!--🔍 Passionate about crafting high-quality software, I'm on a mission to turn challenges into opportunities. Always eager to learn and grow, I'm ready to take on new adventures as a software developer.-->
 
-🔭 <h3> I’m currently working on an application to managing tasks using js Django postgreSQL</h3>
+<h3> 🔭  I’m currently working on an application to managing tasks using js Django postgreSQL</h3>
 
 <!--🌱 I’m currently learning about--> 
 
