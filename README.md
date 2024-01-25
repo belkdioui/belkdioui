@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/badre_elkdioui?igsh=dmtlZjBycmdvMG93&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 <!--
