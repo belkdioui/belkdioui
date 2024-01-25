@@ -2,6 +2,8 @@
 
 💻 student at School 1337 pursuing a degree in software engineering, with a Professional License in Information Technology Management.
 
+[![bel-kdio's 42 stats](https://badge.mediaplus.ma/darkblue/bel-kdio)](https://github.com/oakoudad/badge42)
+
 🚀 Through engaging academic projects and hands-on professional internships, I've honed my skills in software design, development, and maintenance. My journey has equipped me with problem-solving prowess, a collaborative spirit, and a knack for creativity.
 
 <!--🔍 Passionate about crafting high-quality software, I'm on a mission to turn challenges into opportunities. Always eager to learn and grow, I'm ready to take on new adventures as a software developer.-->
