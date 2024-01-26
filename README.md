@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-⚡ Fun fact: ...
+⚡ Fun fact: I have a passion for photography 🌟 and enjoy taking long walks in strange and unique spaces, capturing the world through my lens one step at a time! 🚶‍♂️🌌
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
