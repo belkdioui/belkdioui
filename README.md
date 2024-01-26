@@ -10,10 +10,7 @@
 
 🚀 Through projects and internships, I've cultivated skills in problem-solving, collaboration, and creativity. I'm passionate about creating top-notch software and am excited to embrace new challenges as a software developer.
 
-<!--🔍 Passionate about crafting high-quality software, I'm on a mission to turn challenges into opportunities. Always eager to learn and grow, I'm ready to take on new adventures as a software developer.-->
 <h4> 🚨 Currently, I'm working on an application to manage tasks using JS, Django, and PostgreSQL. 🔗 Check out the project on <a href="your_github_link_here">GitHub</a>! 🚨</h4>
-<!-- <h4>   I’m currently working on an application to managing tasks using js Django postgreSQL<a href="https://github.com/belkdioui-111/task_manager-Js-Django-PostgreSQL"> Link Github </a></h4> -->
-<!--🌱 I’m currently learning about--> 
 
 🌐 Let's connect and build something amazing together! 
   <a href="https://www.linkedin.com/in/badre-el-kdioui-1a88471b1/">
@@ -55,16 +52,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=belkdioui-111&count_private=true&show_icons=true&theme=prussian" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belkdioui-111&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </div>
-          
-<!--
-**belkdioui-111/belkdioui-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
