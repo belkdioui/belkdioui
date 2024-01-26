@@ -1,6 +1,4 @@
 # Hi there 👋  I'm El-kdioui Badre
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 ### :man_technologist: About Me :
 
@@ -28,7 +26,6 @@
 ⚡ Fun fact: ...
 
 ### :hammer_and_wrench: Languages and Tools :
-<i class="devicon-c-plain colored"></i>
           
           
           
