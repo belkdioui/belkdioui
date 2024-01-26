@@ -51,7 +51,7 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bel-kdioui-111)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=belkdioui-111)](https://git.io/streak-stats)
           
 <!--
 **belkdioui-111/belkdioui-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
