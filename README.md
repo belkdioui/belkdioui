@@ -1,5 +1,7 @@
 # Hi there 👋  I'm El-kdioui Badre
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 ### :man_technologist: About Me :
 
 💻 student at School 1337 pursuing a degree in software engineering, with a Professional License in Information Technology Management.
@@ -26,7 +28,8 @@
 ⚡ Fun fact: ...
 
 ### :hammer_and_wrench: Languages and Tools :
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-c-plain colored"></i>
+          
           
           
 <!--
