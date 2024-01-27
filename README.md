@@ -8,8 +8,6 @@
 
 🎓 Armed with a degree in software engineering and a Professional License in Information Technology Management, my academic journey has been complemented by practical experiences in software design and development.
 
-🚀 Through projects and internships, I've cultivated skills in problem-solving, collaboration, and creativity. I'm passionate about creating top-notch software and am excited to embrace new challenges as a software developer.
-
 <h4> 🚨 Currently, I'm working on an application to manage tasks using JS, Django, and PostgreSQL. 🔗 Check out the project on <a href="your_github_link_here">GitHub</a>! 🚨</h4>
 
 🌐 Let's connect and build something amazing together! 
