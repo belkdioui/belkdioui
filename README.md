@@ -8,7 +8,7 @@
 
 🎓 Armed with a degree in software engineering and a Professional License in Information Technology Management, my academic journey has been complemented by practical experiences in software design and development.
 
-<h4> 🚨 Currently, I'm working on an application to manage tasks using JS, Django, and PostgreSQL. 🔗 Check out the project on <a href="your_github_link_here">GitHub</a>! 🚨</h4>
+<h4> 🚨 Currently, I'm working on an application to manage tasks using JS, Django, and PostgreSQL. 🔗 Check out the project on <a href="https://github.com/belkdioui-111/task_manager-Js-Django-PostgreSQL">GitHub</a>! 🚨</h4>
 
 🌐 Let's connect and build something amazing together! 
   <a href="https://www.linkedin.com/in/badre-el-kdioui-1a88471b1/">
