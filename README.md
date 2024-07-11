@@ -14,9 +14,6 @@
   <a href="https://www.linkedin.com/in/badre-el-kdioui-1a88471b1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/badre_elkdioui?igsh=dmtlZjBycmdvMG93&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 
 ⚡ Fun fact: I have a passion for photography 🌟 and enjoy taking long walks in strange and unique spaces, capturing the world through my lens one step at a time! 🚶‍♂️🌌
 
