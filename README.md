@@ -8,7 +8,7 @@
 
 🎓 Armed with a degree in software engineering and a Professional License in Information Technology Management, my academic journey has been complemented by practical experiences in software design and development.
 
-<h4> 🚨 Currently, I'm working on an application to manage tasks using JS, Django, and PostgreSQL. 🔗 Check out the project on <a href="https://github.com/belkdioui-111/task_manager-Js-Django-PostgreSQL">GitHub</a>! 🚨</h4>
+<h4> 🚨 Currently, I'm working on an application to manage tasks using JS, Django, and PostgreSQL. 🔗 Check out the project on <a href="https://github.com/belkdioui/task_manager-Js-Django-PostgreSQL">GitHub</a>! 🚨</h4>
 
 🌐 Let's connect and build something amazing together! 
   <a href="https://www.linkedin.com/in/badre-el-kdioui-1a88471b1/">
@@ -44,6 +44,6 @@
 
 ### :fire: My Stats :
 <div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belkdioui-111&count_private=true&show_icons=true&theme=prussian" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belkdioui-111&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img src="https://github-readme-stats.vercel.app/api?username=belkdioui&count_private=true&show_icons=true&theme=prussian" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belkdioui&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </div>
