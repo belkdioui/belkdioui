@@ -8,7 +8,7 @@
 
 🎓 Armed with a degree in software engineering and a Professional License in Information Technology Management, my academic journey has been complemented by practical experiences in software design and development.
 
-<h4> 🚨 Currently, I'm working on a site web to manage barcodes ticket for a bus using HTML, CSS, Bootstrap, JS, Django, and for data-base mongo-db. 🔗 Check out the project on <a href="https://github.com/belkdioui/Create-manage-and-track-dynamic-QR-codes">GitHub</a>! 🚨</h4>
+<h4> 🚨 Currently, I'm working on an app web to manage barcodes ticket for a bus using HTML, CSS, Bootstrap, JS, Django, and for data-base mongo-db. 🔗 Check out the project on <a href="https://github.com/belkdioui/Create-manage-and-track-dynamic-QR-codes">GitHub</a>! 🚨</h4>
 
 🌐 Let's connect and build something amazing together! 
   <a href="https://www.linkedin.com/in/badre-el-kdioui-1a88471b1/">
