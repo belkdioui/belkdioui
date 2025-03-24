@@ -8,7 +8,7 @@
 
 🎓 Armed with a degree in software engineering and a Professional License in Information Technology Management, my academic journey has been complemented by practical experiences in software design and development.
 
-<h5> 🚨 Currently, I'm working on a web application called Mhawda to build a real-time chat platform using React, HTML, CSS, JavaScript, Django, and PostgreSQL. 🗨️ The app includes features like user authentication, chat rooms, and real-time messaging using WebSockets. 🔗 Check out the project on <a href="https://github.com/belkdioui/Mhawda">GitHub</a>! 🚨</h5>
+<h5> 🚨 Currently, I'm working on a web application called PedroChat to build a real-time chat platform using React, HTML, CSS, JavaScript, Django, and PostgreSQL. 🗨️ The app includes features like user authentication, chat rooms, and real-time messaging using WebSockets. 🔗 Check out the project on <a href="https://github.com/belkdioui/Mhawda">GitHub</a>! 🚨</h5>
 
 🌐 Let's connect and build something amazing together! 
   <a href="https://www.linkedin.com/in/badre-el-kdioui-1a88471b1/">
